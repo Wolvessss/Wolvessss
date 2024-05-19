@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wolvessss
+- 👋 Hi, I'm Wolves
 - 🌱 I’m currently learning ML, AI and Ethical Hacking
 - 📫 How to reach me SnakhoWolves@proton.me
 - 😄 Pronouns: Mr
