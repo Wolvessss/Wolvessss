@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Wolves
+- 👋 Hi, I am Nkosinamandla Mhlophe, but you can call me Wolves
 - 🌱 I’m currently learning ML, AI and Ethical Hacking
 - 📫 How to reach me SnakhoWolves@proton.me
 - 😄 Pronouns: Mr
